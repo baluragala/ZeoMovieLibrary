@@ -14,5 +14,5 @@ Ext.application({
     ],
 
     // The name of the initial view to create.
-    mainView: 'ZeoApp.view.main.Main'
+    mainView: 'ZeoApp.view.login.Login'
 });
